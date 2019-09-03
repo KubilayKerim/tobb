@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tobb/static/css/main.2cce8147.chunk.css",
-    "main.js": "/tobb/static/js/main.e7004a0d.chunk.js",
-    "main.js.map": "/tobb/static/js/main.e7004a0d.chunk.js.map",
-    "runtime~main.js": "/tobb/static/js/runtime~main.fcbdaca6.js",
-    "runtime~main.js.map": "/tobb/static/js/runtime~main.fcbdaca6.js.map",
-    "static/js/2.57534d04.chunk.js": "/tobb/static/js/2.57534d04.chunk.js",
-    "static/js/2.57534d04.chunk.js.map": "/tobb/static/js/2.57534d04.chunk.js.map",
-    "index.html": "/tobb/index.html",
-    "precache-manifest.88b1999e78d3095f295683e6082717d7.js": "/tobb/precache-manifest.88b1999e78d3095f295683e6082717d7.js",
-    "service-worker.js": "/tobb/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/tobb/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/tobb/static/media/logo.5d5d9eef.svg"
+    "main.css": "/tobb/tobb-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/tobb/tobb-react/static/js/main.ee631a36.chunk.js",
+    "main.js.map": "/tobb/tobb-react/static/js/main.ee631a36.chunk.js.map",
+    "runtime~main.js": "/tobb/tobb-react/static/js/runtime~main.c52bd573.js",
+    "runtime~main.js.map": "/tobb/tobb-react/static/js/runtime~main.c52bd573.js.map",
+    "static/js/2.57534d04.chunk.js": "/tobb/tobb-react/static/js/2.57534d04.chunk.js",
+    "static/js/2.57534d04.chunk.js.map": "/tobb/tobb-react/static/js/2.57534d04.chunk.js.map",
+    "index.html": "/tobb/tobb-react/index.html",
+    "precache-manifest.4c436fa6fb3e866dd7372eecbe888256.js": "/tobb/tobb-react/precache-manifest.4c436fa6fb3e866dd7372eecbe888256.js",
+    "service-worker.js": "/tobb/tobb-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/tobb/tobb-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/tobb/tobb-react/static/media/logo.5d5d9eef.svg"
   }
 }
